@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TESTANDO,Chrome 69.0.3497.92,,2018-09-19 15:30:50,2018-09-19 15:31:52,"1m - 2,941s",ERROR
+,,,,,,
+Test Cases/Reuso/Efetuar_Login,Chrome 69.0.3497.92,,2018-09-19 15:30:50,2018-09-19 15:31:52,"1m - 1,695s",ERROR
+openBrowser,Chrome 69.0.3497.92,Acessar Siga,2018-09-19 15:30:50,2018-09-19 15:31:20,"29,239s",PASSED
+setText,Chrome 69.0.3497.92,Preencher campo de usuário.,2018-09-19 15:31:20,2018-09-19 15:31:20,"0,391s",PASSED
+setText,Chrome 69.0.3497.92,Preencher campo de senha.,2018-09-19 15:31:20,2018-09-19 15:31:20,"0,199s",PASSED
+"Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Dashboard/confirma_tela_Dashboard), 0, OPTIONAL)))",Chrome 69.0.3497.92,,2018-09-19 15:31:20,2018-09-19 15:31:52,"31,508s",PASSED

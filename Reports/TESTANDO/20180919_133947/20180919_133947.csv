@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TESTANDO,Chrome 69.0.3497.92,,2018-09-19 13:39:49,2018-09-19 13:40:53,"1m - 3,525s",FAILED
+,,,,,,
+Test Cases/Reuso/Efetuar_Login,Chrome 69.0.3497.92,,2018-09-19 13:39:49,2018-09-19 13:40:52,"1m - 2,243s",FAILED
+openBrowser,Chrome 69.0.3497.92,Acessar Siga,2018-09-19 13:39:50,2018-09-19 13:40:20,"30,204s",PASSED
+setText,Chrome 69.0.3497.92,Preencher campos de usuário e senha.,2018-09-19 13:40:20,2018-09-19 13:40:52,"31,569s",FAILED

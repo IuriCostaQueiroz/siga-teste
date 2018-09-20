@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TESTANDO,Chrome 69.0.3497.92,,2018-09-19 14:23:21,2018-09-19 14:24:10,"49,601s",ERROR
+,,,,,,
+Test Cases/Reuso/Efetuar_Login,Chrome 69.0.3497.92,,2018-09-19 14:23:21,2018-09-19 14:24:09,"47,997s",ERROR
+openBrowser,Chrome 69.0.3497.92,Acessar Siga,2018-09-19 14:23:22,2018-09-19 14:23:38,"15,833s",PASSED
+setText,Chrome 69.0.3497.92,Preencher campos de usuário e senha.,2018-09-19 14:23:38,2018-09-19 14:24:09,"31,760s",PASSED
+"Statement - KeywordUtil.markFailedAndStop(""ERRO AO EFETUAR LOGIN"")",Chrome 69.0.3497.92,,2018-09-19 14:24:09,2018-09-19 14:24:09,"0,004s",PASSED
