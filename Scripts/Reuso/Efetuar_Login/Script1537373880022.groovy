@@ -40,3 +40,5 @@ WebUI.click(findTestObject('Geral/submenu_Novo'))
 
 'tentando dar comit com checkout de iuri'
 
+
+'tentando dar comit com checkout de iuri 2222'
