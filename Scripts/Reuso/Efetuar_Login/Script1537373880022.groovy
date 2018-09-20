@@ -33,4 +33,4 @@ WebUI.waitForElementVisible(findTestObject('Geral/submenu_Novo'), 0)
 
 WebUI.click(findTestObject('Geral/submenu_Novo'))
 
-'teste'
+'testeb vbfbfbg f' 
