@@ -34,7 +34,7 @@ WebUI.waitForElementVisible(findTestObject('Geral/submenu_Novo'), 0)
 WebUI.click(findTestObject('Geral/submenu_Novo'))
 
 
-'iuri coment ' 
+'iuri coment io ' 
 
 'Comentario feito por alisson'
 
